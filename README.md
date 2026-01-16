@@ -5,7 +5,7 @@ A PyTorch implementation of the KANLinear layer.
 ## Installation
 
 ```bash
-pip install .
+pip install git+https://github.com/dillfrescott/kan_linear
 ```
 
 ## Usage
